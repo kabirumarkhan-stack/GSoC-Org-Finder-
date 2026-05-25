@@ -1307,25 +1307,24 @@
   "International Catrobat Association": {
   "org": "International Catrobat Association",
   "ideasUrl": "https://github.com/Catrobat/Catroid/wiki/Google-Summer-of-Code-2026",
-  "website": "https://catrobat.org/",
-  "github": "https://github.com/Catrobat",
-  "socials": {
-    "linkedin": "https://www.linkedin.com/company/catrobat/"
-  },
+
   "channels": [
     {
-    "type": "google-groups",
-    "url": "https://groups.google.com/g/catrobat"
-  }
+      "type": "google-groups",
+      "url": "https://groups.google.com/g/catrobat"
+    }
   ],
+
   "mentors": [
     {
       "name": "Wolfgang Slany",
       "role": "Founder",
-      "github": "https://github.com/wslany",
+      "github": "wslany",
+      "githubUrl": "https://github.com/wslany",
       "linkedin": "https://www.linkedin.com/in/wolfgangslany/"
     }
   ],
+
   "contacts": [
     {
       "type": "email",
@@ -1333,14 +1332,17 @@
       "source": "https://github.com/Catrobat"
     }
   ],
+
   "mailingLists": [
     {
-    "type": "google-groups",
-    "url": "https://groups.google.com/g/catrobat"
-  }
+      "type": "google-groups",
+      "url": "https://groups.google.com/g/catrobat"
+    }
   ],
+
   "tip": "Public contact email, founder information, and official LinkedIn page discovered from GitHub, LinkedIn, and organization website.",
-  "status": "contact-found",
+
+  "status": "ok",
   "lastFetched": "2026-05-26T00:00:00.000Z"
 },
   "Internet Archive": {
